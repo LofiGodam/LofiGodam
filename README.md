@@ -14,7 +14,7 @@
 
 [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/hr.gif"/>](https://github.com/LofiGodam)
 
-<h1> <img src="https://github.com/itz-star-boi/itz-star-boi/blob/main/resources/Star.png" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://github.com/LofiGodam/itz-star-boi/blob/main/resources/Star.png" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class Starboi():
@@ -52,6 +52,6 @@ class Starboi():
 
 <h1> <img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
- [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/telegram_icon.png" width="60px">](https://t.me/its_star_boi) [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/github_icon.png" width="60px">](https://github.com/LofiGodam) [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/Instagram_icon.png" width="60px">] [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/youtube_icon.png" width="60px">](https://youtube.com/@Lofi2007)
+ [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/telegram_icon.png" width="60px">](https://t.me/EAGLE_BACK) [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/github_icon.png" width="60px">](https://github.com/LofiGodam) [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/Instagram_icon.png" width="60px">] [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/youtube_icon.png" width="60px">](https://youtube.com/@Lofi2007)
 
 [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/hr.gif"/>](https://github.com/LofiGodam)
