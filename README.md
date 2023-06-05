@@ -3,7 +3,7 @@
 <h1> <img src="https://github.com/itz-star-boi/itz-star-boi/blob/main/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs °𖣔⏤͟͟͞𓆩𝐄𝐀𝐆𝐋𝐄°𓆪°༎꯭ࠫ[🇮🇳][ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itz-star-boi/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/LofiGodam/count.svg" />
 </p>
 
 [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/hr.gif"/>](https://github.com/LofiGodam)
