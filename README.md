@@ -6,6 +6,12 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/LofiGodam/count.svg" />
 </p>
 
+<p align="center">
+
+<img src="https://te.legra.ph/file/dfc25cc938586c670d0f8.jpg">
+
+</p>
+
 [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/hr.gif"/>](https://github.com/LofiGodam)
 
 <h1> <img src="https://github.com/itz-star-boi/itz-star-boi/blob/main/resources/Star.png" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
