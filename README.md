@@ -14,7 +14,7 @@
 
 [<img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/hr.gif"/>](https://github.com/LofiGodam)
 
-<h1> <img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/Star.png" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/EagleX.png" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class Starboi():
