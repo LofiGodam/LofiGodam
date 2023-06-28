@@ -17,7 +17,7 @@
 <h1> <img src="https://github.com/LofiGodam/LofiGodam/blob/main/resources/EagleX.png" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class Starboi():
+class Eagle():
     def __init__(self):
         self.name = ['°𖣔⏤͟͟͞𓆩𝐄𝐀𝐆𝐋𝐄°𓆪°༎꯭ࠫ[🇮🇳][']
         self.country = ['India']
